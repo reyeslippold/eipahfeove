@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohthaihee.nrnb.org/sitemap.xml
